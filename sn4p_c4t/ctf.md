@@ -1,7 +1,7 @@
-## Enunciado
+# Enunciado
 Uma funcionária de uma empresa estava armazenando seus arquivos pessoais em um computador de trabalho. Infelizmente, ele corrompeu o sistema de arquivos antes que pudéssemos prová-lo. Você pode dar uma olhada? Link para baixar o arquivo: https://drive.google.com/open?id=0B_8nyUDljo0ycWthazJZRFR4NkE
 
-# Ideia de Solução
+## Ideia de Solução
 Analisando-se o arquivo atraves do comando strings, obtemos algumas linhas que indicam que há imagens JPG dentro do arquivo.
 
 Podemos analisar o arquivo atraves do hexdump, e procurar pela assinatura de arquivos JPG através do site http://www.garykessler.net/library/file_sigs.html . Confirmamos então que há vários arquivos jpg.
