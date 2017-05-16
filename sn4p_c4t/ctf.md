@@ -4,7 +4,7 @@ Uma funcionária de uma empresa estava armazenando seus arquivos pessoais em um 
 ## Ideia de Solução
 Analisando-se o arquivo atraves do comando strings, obtemos algumas linhas que indicam que há imagens JPG dentro do arquivo.
 
-![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/sn4p_c4t/Captura de Tela 2017-05-16 às 18.07.33.png)
+![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/sn4p_c4t/Captura\ de\ Tela\ 2017-05-16\ às\ 18.07.33.png)
 
 Podemos analisar o arquivo atraves do hexdump, e procurar pela assinatura de arquivos JPG através do site http://www.garykessler.net/library/file_sigs.html . Confirmamos então que há vários arquivos jpg.
 
