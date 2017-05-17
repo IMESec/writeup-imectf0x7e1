@@ -24,6 +24,6 @@ Podemos analisar de outra maneira também. Como sabemos que é um arquivo JPEG, 
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/uma_imagem_vale_mais_que_mil_palavras/imagem_palavras4.png)
 
 Abrir os arquivos JPEG, e em um deles estará a flag.
-![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/uma_imagem_vale_mais_que_mil_palavras/imagem_palavras1.png)
+![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/uma_imagem_vale_mais_que_mil_palavras/imagem_palavras5.png)
 
 
