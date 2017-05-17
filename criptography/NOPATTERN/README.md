@@ -35,3 +35,13 @@ for i in hexa_array:
 
 print char_string
 ```
+  O _script_ dá como saída a seguinte _string_:
+```bash
+MU0zUzNDe0wxRjNfMTVfUjRORDBOfQo=
+```
+  Testando-se a decodificação por _base64_:
+```bash
+$ echo "MU0zUzNDe0wxRjNfMTVfUjRORDBOfQo=" | base64 -d
+```
+  Obtemos a flag:
+  **1M3S3C{L1F3\_15\_R4ND0N}**
