@@ -2,6 +2,9 @@
 Rastros do Hackudão da Chatuba
 O tráfico de drogas da caótica cidade do RJ tem se tornado cada vez mais evoluído, e dessa vez decidiram contratar um hacker mais conhecido como hackudão da chatuba. Porém, ele ainda é muito n00b e sempre deixa rastros por onde passa, inclusive as ferramentas que usa em seus trabalhos. Siga o fluxo da captura encontrada em https://www.dropbox.com/s/mx3dqxdtuym45q7/captura.pcap?dl=0 , e ache a senha Chuck Norrys.
 
+### Criador da Flag 
+Cap Pedro Henrique - CdCiber
+
 ### Dica: 
 Você não precisa analisar outros arquivos .pcap, somente o do link acima.
 
