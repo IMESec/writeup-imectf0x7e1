@@ -2,11 +2,14 @@
 Rastros do Hackudão da Chatuba
 O tráfico de drogas da caótica cidade do RJ tem se tornado cada vez mais evoluído, e dessa vez decidiram contratar um hacker mais conhecido como hackudão da chatuba. Porém, ele ainda é muito n00b e sempre deixa rastros por onde passa, inclusive as ferramentas que usa em seus trabalhos. Siga o fluxo da captura encontrada em https://www.dropbox.com/s/mx3dqxdtuym45q7/captura.pcap?dl=0 , e ache a senha Chuck Norrys.
 
+### Criador da Flag 
+Cap Pedro Henrique - CdCiber
+
 ### Dica: 
 Você não precisa analisar outros arquivos .pcap, somente o do link acima.
 
 ## Ideia de Solução
-abrindo o pacote
+0. abrindo o pacote
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a1.png)
 
 1. tcp contains www.
@@ -52,49 +55,6 @@ a12,a13,a14, .. a19
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a22.png)
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a23.png)
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-QRCode
-# Para achar qual criptografia usar
-youtube.com/watch?v=VrEapa4nL8o
-Decripte com Megan-35
-Dar uma olhada no crypto wireless 
-Senha pro WPA
-Deve estar no video
-
-# Para baixar o video...
-SIga o fluxo do stream rtmp
-rtmp2flv
-github.com/quo/rtmp2fly
-video -> flv
-qr code
-le
-decripta com megan-35
-so_chuck_norrys_quebra
-
-extense http
-crypto_wireless 
-
-wpa_passphrase Wireless 
-pra gerar senha pra quebrar o arquivo
-Coloca-lo no wireshark em edit-Preferences. Protocolo - IEEE802.11 + wpa-psk - key
-
-OdNthsesSIG4huS4ngS7huyqm+NrOdNuhxKvRwOsbHesRfC1RZe5
-#_$0h_Chuck_N0rr1$_qu3br@!_%
 
 
 
