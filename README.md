@@ -10,45 +10,45 @@
 
 - Binary Exploitation
     + [ ] Auth System
-    + Malicious Calculator
-    + Guess the Number
-    + Paradox Game
+    + [ ] Malicious Calculator
+    + [ ] Guess the Number
+    + [ ] Paradox Game
 - Criptography
-    + NOPATTERN
-    + SN4P C4T
-    + Realidade Aumentada
-    + 19
-    + RSA
-    + SUBSTITUTION
-    + Random
-    + Xing-Ling
-    + So Visual
-    + Incomplete
-    + Broadcast
-    + SHAke SHAck
-    + Small_boxes
+    + [ ] NOPATTERN
+    + [X] SN4P C4T
+    + [X] Realidade Aumentada
+    + [ ] 19
+    + [ ] RSA
+    + [ ] SUBSTITUTION
+    + [ ] Random
+    + [ ] Xing-Ling
+    + [ ] So Visual
+    + [ ] Incomplete
+    + [ ] Broadcast
+    + [ ] SHAke SHAck
+    + [ ] Small_boxes
 - Forensics
-    + Are you HEADy?
-    + BEHIND_THE_EYES
-    + Uma imagem vale mais que mil palavras
-    + A Hell of a Capture
-    + Rastros do Hackudão da Chatuba
-    + Wireless do Hackudão da Chatuba
+    + [ ] Are you HEADy?
+    + [X] BEHIND_THE_EYES
+    + [X] Uma imagem vale mais que mil palavras
+    + [ ] A Hell of a Capture
+    + [X] Rastros do Hackudão da Chatuba
+    + [X] Wireless do Hackudão da Chatuba
 - Miscellaneous
-    + No SSH4You
-    + NET is for CATs
-    + STUBBORNKEY
-    + NOXPINACH
-    + Tokens
-    + aaloo
+    + [ ] No SSH4You
+    + [ ] NET is for CATs
+    + [ ] STUBBORNKEY
+    + [ ] NOXPINACH
+    + [ ] Tokens
+    + [ ] aaloo
 - Reverse Engineering
-    + Code JSut Hard
-    + ANCIENTMAGIC
-    + Sistema de Tiro
-    + Easy Guess
-    + The Seed is Power
+    + [ ] Code JSut Hard
+    + [ ] ANCIENTMAGIC
+    + [ ] Sistema de Tiro
+    + [ ] Easy Guess
+    + [ ] The Seed is Power
 - Web Exploitation
-    + A união faz a força
-    + O hacker quer biscoito
-    + I LIKE it
-    + WeBeasy
+    + [ ] A união faz a força
+    + [ ] O hacker quer biscoito
+    + [ ] I LIKE it
+    + [ ] WeBeasy
