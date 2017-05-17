@@ -52,15 +52,6 @@ a12,a13,a14, .. a19
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a22.png)
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a23.png)
 
- 
-crypto_wireless 
-
-wpa_passphrase Wireless 
-pra gerar senha pra quebrar o arquivo
-Coloca-lo no wireshark em edit-Preferences. Protocolo - IEEE802.11 + wpa-psk - key
-
-OdNthsesSIG4huS4ngS7huyqm+NrOdNuhxKvRwOsbHesRfC1RZe5
-#_$0h_Chuck_N0rr1$_qu3br@!_%
 
 
 
