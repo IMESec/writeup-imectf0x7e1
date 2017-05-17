@@ -6,7 +6,7 @@ O tráfico de drogas da caótica cidade do RJ tem se tornado cada vez mais evolu
 Você não precisa analisar outros arquivos .pcap, somente o do link acima.
 
 ## Ideia de Solução
-abrindo o pacote
+0. abrindo o pacote
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a1.png)
 
 1. tcp contains www.
@@ -53,40 +53,6 @@ a12,a13,a14, .. a19
 ![Packets data flow](https://github.com/brunoavelino/writeup-imectf0x7e1/blob/master/forensics/rastros_do_hackudao_da_chatuba/a23.png)
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-QRCode
-# Para achar qual criptografia usar
-youtube.com/watch?v=VrEapa4nL8o
-Decripte com Megan-35
-Dar uma olhada no crypto wireless 
-Senha pro WPA
-Deve estar no video
-
-# Para baixar o video...
-SIga o fluxo do stream rtmp
-rtmp2flv
-github.com/quo/rtmp2fly
-video -> flv
-qr code
-le
-decripta com megan-35
-so_chuck_norrys_quebra
-
-extense http
 crypto_wireless 
 
 wpa_passphrase Wireless 
