@@ -6,11 +6,10 @@
 ## Scoreboard
 ![Scoreboard](_images/scoreboard.png)
 
-## DONE
+## FLAG LIST 
 
-## TO DO
 - Binary Exploitation
-    + Auth System
+    + [ ] Auth System
     + Malicious Calculator
     + Guess the Number
     + Paradox Game
