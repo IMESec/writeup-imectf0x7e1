@@ -37,7 +37,7 @@
 - Miscellaneous
     + [ ] No SSH4You
     + [ ] NET is for CATs
-    + [ ] STUBBORNKEY
+    + [X] STUBBORNKEY
     + [ ] NOXPINACH
     + [ ] Tokens
     + [ ] aaloo
