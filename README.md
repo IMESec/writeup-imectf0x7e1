@@ -14,7 +14,7 @@
     + [ ] Guess the Number
     + [ ] Paradox Game
 - Criptography
-    + [ ] NOPATTERN
+    + [X] NOPATTERN
     + [X] SN4P C4T
     + [X] Realidade Aumentada
     + [ ] 19
